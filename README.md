@@ -1,7 +1,3 @@
 # Practice_Repo
 
-# Only for practice
-
-# React
-
-# React Two
+This Repository is only for practice and it does not contain any sensitive data.
